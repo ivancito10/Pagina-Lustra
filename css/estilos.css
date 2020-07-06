@@ -904,7 +904,9 @@ footer ul li a {
 }
 
 @media (max-width: 460px) {
-    
+    video{
+        display: none;
+    }
     #hero-image {
         height: 200px;
         background: #131313;
